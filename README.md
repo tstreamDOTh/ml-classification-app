@@ -45,7 +45,7 @@ is saved as test_data.csv and is what the Streamlit app scores by default.
 
 https://github.com/tstreamDOTh/ml-classification-app
 
-Live Streamlit app: https://STREAMLIT_APP_URL
+Live Streamlit app: https://ml-classification-app-t5s2ffakypztybtt4df7n7.streamlit.app/
 
 Repository layout:
 
